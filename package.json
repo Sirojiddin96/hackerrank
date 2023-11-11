@@ -1,0 +1,14 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "\"Hackerrank problems\"",
+  "main": "2d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karimov Sirojiddin",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
